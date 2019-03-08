@@ -1,4 +1,4 @@
-# 猫ののみちゃん：一期：第１話
+# 猫ののみちゃん：一期の第１話
 
 <hr />
 
@@ -8,7 +8,7 @@ Read the text below.
 
 > **猫がいる。猫はのみちゃんだ。 のみちゃんは魚が大好き。**
 
-### Vocabulary
+### 単語
 
 | Kanji | Kana | English |
 | - | - | - |
@@ -28,7 +28,7 @@ Read the text below.
 
 Answer the questions based on what you read. Answer out loud or in your head. Click the blurred answer to reveal. (Check out the vocab if you don't recognize a word.)
 
-| Question | Answer |
+| 質問 | 答え |
 | - | - |
 | 猫がいる？ | はい、猫がいる。 |
 | のみちゃんは猫？のみちゃんは犬？ | のみちゃんは犬じゃない。のみちゃんは猫。|

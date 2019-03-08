@@ -8,7 +8,7 @@ Read the text below.
 
 > **猫がいる。猫の名前はのみちゃんだ。のみちゃんはちょっと太くて小さい猫だ。友達がいる。彼女の友達は犬だ。犬の名前はウィルバーだ。ウィルバーは細くて大きい犬だ。**
 
-### Vocabulary
+### 単語
 
 | Kanji | Kana | English |
 | - | - | - |
@@ -31,7 +31,7 @@ Read the text below.
 
 Answer the questions based on what you read. Answer out loud or in your head. Click the blurred answer to reveal. (Check out the vocab if you don't recognize a word.)
 
-| Question | Answer |
+| 質問 | 答え |
 | - | - |
 | 猫がいる？ | はい、猫がいる。 |
 | のみちゃんは猫？のみちゃんは犬？ | のみちゃんは犬じゃない。のみちゃんは猫。|
